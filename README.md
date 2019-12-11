@@ -1,5 +1,5 @@
 ### vcs_webdev_course_project
-I've built this web page as part of a Web Development course I had enrolled in.
+I've built this web page as part of a Web Development course at Vilnius Coding School.
 
 My idea was to take any free web page design from the internet and try to recreate it with my own hands. Original design files are included in the Images folder for comparison.
 
