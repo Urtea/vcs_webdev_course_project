@@ -5,4 +5,4 @@ My idea was to take any free web page design from the internet and try to recrea
 
 Besides content and style, the web page has a couple of javascripts included and a working PHP contact form.
 
-nophp version is included for a simpler download and preview.
+A nophp version of a project is hosted under urtea.github.io.
